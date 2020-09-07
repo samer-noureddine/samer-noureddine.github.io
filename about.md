@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Samer, I am pursuing a PhD in Cognitive Science at Tufts University. I am interested in the processes that are going on in your brain right now, as your eyes make sense of these words - the processes that make comprehension not only possible, but impressively fast and nearly effortless. I use this blog to summarize interesting concepts in computational cognitive science as they cross my path.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samern92-at-gmail-dot-com]
