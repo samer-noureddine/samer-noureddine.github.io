@@ -1,6 +1,7 @@
 ---
 layout: post
-title: [Blog Under Construction]
+title: [Test]
+Test text
 ---
 
 
